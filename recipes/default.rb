@@ -5,6 +5,7 @@
 # Copyright (c) 2018 The Authors, All Rights Reserved.
 package 'vim-enhanced'
 package 'nano'
+package 'emacs'
 
 package 'tree' do
 	action :install
